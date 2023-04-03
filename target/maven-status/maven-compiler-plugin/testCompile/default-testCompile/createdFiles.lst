@@ -1,0 +1,14 @@
+api\utilities\ExtentReportManager.class
+api\utilities\DataProviders.class
+api\utilities\PropertiesUtility.class
+api\test\StoreDataDrivenTest.class
+api\endpoints\Routes.class
+api\test\UserTest.class
+api\payload\UserPojo.class
+api\utilities\ExcelUtility.class
+api\payload\StorePojo.class
+api\endpoints\UserResponse.class
+api\endpoints\StoreResponse.class
+api\endpoints\UserResProperties.class
+api\test\UserDataDrivenTest.class
+api\test\UserPropertiesDDT.class
