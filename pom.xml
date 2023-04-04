@@ -126,6 +126,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							<suiteXmlFile>testng.xml</suiteXmlFile>
+							<suiteXmlFile>testng3.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
