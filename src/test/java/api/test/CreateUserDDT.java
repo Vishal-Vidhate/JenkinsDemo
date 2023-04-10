@@ -31,7 +31,7 @@ public class CreateUserDDT {
 		
 		Response response = CreateUser.testCreateUser(pj);
 		response.then().log().body();
-		Assert.assertEquals(response.getStatusCode(), 201);
+		Assert.assertEquals(response.getStatusCode(), 204);
 		
 		ObjectMapper objMapper = new ObjectMapper();
 		
