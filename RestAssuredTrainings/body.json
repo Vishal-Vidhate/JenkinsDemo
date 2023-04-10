@@ -1,0 +1,12 @@
+{
+	"name": "vishal vidhate",
+	"location": {
+		"lat": 67565443,
+		"log": 52435555
+	},
+	"phone": "1234567890",
+	"courses": [
+		"java2",
+		"selenium2"
+	]
+}
